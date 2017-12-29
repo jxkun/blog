@@ -18,7 +18,7 @@ python setup.py install
 
 ### 测试pandas是否安装成功  
 nose模块扩展了unittest模块功能，Python的unittest是用来测试代码的，nose模块与之相比简化了测试代码。  
-先确保Python安装有nose模块，运行nosetests pandas 测试。需要几分钟，测试完后，将将显示问题列表。
+先确保Python安装有nose模块，运行nosetests pandas 测试。需要几分钟，测试完后，将将显示问题列表。  
 nose介绍文章 http://pythontesting.net/framework/nose/nose-introduction
   
 ### 开始pandas学习
