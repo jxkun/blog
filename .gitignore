@@ -89,4 +89,8 @@ buildNumber.properties
 .project
 .classpath
 .settings
+
+# ignore eclipse workspace
 .metadata
+.recommenders
+RemoteSystemsTempFiles
