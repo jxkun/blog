@@ -18,7 +18,8 @@ NETMASK=255.255.255.0(新添加)
 ```
 
 >service network restart # 重启网卡服务  
-ip addr 查看配置是否成功.
+ip addr 查看配置是否成功.  
+route 查看默认网关
 
 几个配置好的例子:
 ```
