@@ -17,7 +17,7 @@ IPADDR=192.168.164.100(新添加)
 NETMASK=255.255.255.0(新添加)
 ```
 
->service network restart # 重启网卡服务
+>service network restart # 重启网卡服务  
 ip addr 查看配置是否成功.
 
 几个配置好的例子:
